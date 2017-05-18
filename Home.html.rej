@@ -1,0 +1,10 @@
+diff a/Home.html b/Home.html	(rejected hunks)
+@@ -58,7 +58,7 @@
+       </nav>
+       <div class="row banner">
+          <div class="banner-text">
+-            <h1 class="responsive-headline wow zoomIn">I'm <span>Ahmad R. Veysi</span></h1>
++            <h1 class="responsive-headline wow zoomIn">I'm <span>Ahmad R. ahmadi</span></h1>
+             <h3 class="wow fadeInUp">I'm a passionate <span>UI/UX Designer</span> and <span>Front-End Developer</span> creating modern and responsive design for <span>Web</span> and <span>Mobile</span>. <br> Let's start scfadeIng and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
+             <hr />
+          </div>
