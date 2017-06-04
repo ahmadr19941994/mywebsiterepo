@@ -3,3 +3,5 @@
 index.html.rej
 *.zip
 *.doc
+*.c#
+*.c++
